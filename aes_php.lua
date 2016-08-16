@@ -1,4 +1,3 @@
--- author by guoqiang
 
 
 local ffi = require "ffi"
