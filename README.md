@@ -1,4 +1,4 @@
-# lua-aes-php
+lua-aes-php
 ===========
 
 PHP mycrpty 的API不支持 PKCS#5 padding，该扩展可以加解密php aes 加解密的结果。
